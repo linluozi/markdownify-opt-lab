@@ -1,0 +1,9 @@
+{
+  "impl": "baseline",
+  "scale": "small",
+  "index": 2,
+  "ms": 67.0627886429429,
+  "bytes": 50443,
+  "corpus_source": "/usr/share/doc/nodejs/api/console.html",
+  "corpus_sha256": "0761a36a162b2c6ac2a7edc7ae0fdd10072fb94d574bd9798d3781548f6c9b1c"
+}

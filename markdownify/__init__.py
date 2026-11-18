@@ -294,7 +294,9 @@ class MarkdownConverter(object):
         child_strings = [s for s in child_strings if s]
 
         # Collapse newlines at child element boundaries, if needed.
-        if node.name == 'pre' or node.find_parent('pre'):
+        # parent_tags already carries every ancestor tag name, so this is
+        # equivalent to find_parent('pre') without re-walking the tree per node.
+        if node.name == 'pre' or 'pre' in parent_tags:
             # Inside <pre> blocks, do not collapse newlines.
             pass
         else:

@@ -1,0 +1,9 @@
+{
+  "impl": "optimized",
+  "scale": "large",
+  "index": 4,
+  "ms": 139.2170526087284,
+  "bytes": 174057,
+  "corpus_source": "/usr/share/doc/libjs-underscore/index.html",
+  "corpus_sha256": "1ee44c357a1056ffdcea0fc7ae475b6a5ece484890f626427cb3a6a85c181afd"
+}

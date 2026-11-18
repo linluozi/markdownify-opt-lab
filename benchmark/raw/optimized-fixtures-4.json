@@ -1,0 +1,9 @@
+{
+  "impl": "optimized",
+  "scale": "fixtures",
+  "index": 4,
+  "ms": 26.830559596419334,
+  "bytes": 14515,
+  "corpus_source": "upstream tests/test_*.py string literals (ast-extracted)",
+  "corpus_sha256": "f53cbcad3d49989941e11848c05165df98c3387265ceba3949a29497b700f795"
+}

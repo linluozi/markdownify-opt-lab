@@ -1,0 +1,9 @@
+{
+  "impl": "baseline",
+  "scale": "medium",
+  "index": 2,
+  "ms": 82.60336983948946,
+  "bytes": 109020,
+  "corpus_source": "/usr/share/doc/libexpat1-dev/expat.html/reference.html",
+  "corpus_sha256": "6689694231ea43ea517cd9611353d408f2020fe8aa4cacd45595e136d0ebaa7a"
+}
